@@ -5,7 +5,7 @@ echo "WELCOME. <https://www.youtube.com/watch?v=3KAEInRUXEc>"
 # ============================ # 
 
 ## Install APPs:
-sudo pacman -S doas mpv picard calibre exodus librewolf-bin ungoogled-chromium alsa-control cozy-audiobooks devour droidcam-obs-plugin-git freetube-bin github-desktop-bin lanxchange sublime-text-3 turtl vscodium-bin bleachbin celluloid handbreak kleopatra obs-studio qbittorrent gparted rednotebook virt-manager brave dnscrypt-proxy neofetch os-prober  
+sudo pacman -S doas mpv picard calibre exodus librewolf-bin ungoogled-chromium alsa-control cozy-audiobooks devour droidcam-obs-plugin-git freetube-bin github-desktop-bin lanxchange sublime-text-3 turtl vscodium-bin bleachbin celluloid handbreak kleopatra obs-studio qbittorrent gparted rednotebook virt-manager brave dnscrypt-proxy neofetch os-prober  || echo "Houston, we have a problem in installing some apps" 
 
 ## Edit their configs:
 cd Downloads || mkdir Downloads 
