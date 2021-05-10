@@ -20,7 +20,7 @@ sudo mv dnscrypt-proxy.toml /etc/dnscrypt-proxy/dnscrypt-proxy.toml
 
 # ZSH
 wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Configs/zshrc
-mv "zshrc" "~/.zshrc"
+mv zshrc ~/.zshrc
 
 # ============================ # 
 echo "THANK YOU. <https://www.youtube.com/watch?v=7aKN1AC6MQU>"
