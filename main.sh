@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Conf
 sudo mv dnscrypt-proxy.toml /etc/dnscrypt-proxy/dnscrypt-proxy.toml
 
 # ZSH
-wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Configs/zshrc.conf
+wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Configs/zshrc
 mv "zshrc" "~/.zshrc"
 
 # ============================ # 
