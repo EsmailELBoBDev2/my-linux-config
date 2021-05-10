@@ -18,6 +18,10 @@ sudo mv doas.conf /etc/doas.conf
 wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Configs/dnscrypt-proxy.toml
 sudo mv dnscrypt-proxy.toml /etc/dnscrypt-proxy/dnscrypt-proxy.toml
 
+# ZSH
+wget https://raw.githubusercontent.com/EsmailELBoBDev2/my-linux-config/main/Configs/zshrc.conf
+mv "zshrc" "~/.zshrc"
+
 # ============================ # 
 echo "THANK YOU. <https://www.youtube.com/watch?v=7aKN1AC6MQU>"
 return 0
